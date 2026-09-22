@@ -67,3 +67,11 @@ node_modules/
 
 # macOS
 .DS_Store
+
+# Large video media (served from R2)
+public/videos/
+
+# Wrangler
+.wrangler/
+.dev.vars
+worker-configuration.d.ts
